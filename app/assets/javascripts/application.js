@@ -10,6 +10,10 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
+//= require jquery/dist/jquery.min.js
+//= require slick-carousel/slick/slick.min.js
+//= require jquery.stellar/jquery.stellar.js
+//= require easy-pie-chart/dist/jquery.easypiechart.min.js
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .

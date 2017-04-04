@@ -1,5 +1,31 @@
 {
   "name": "charismo",
-  "private": true,
-  "dependencies": {}
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "easy-pie-chart": "^2.1.7",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
+    "jquery.stellar": "^0.6.2",
+    "slick-carousel": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charismodev/charismo.git"
+  },
+  "author": "Natasha Sukhinina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charismodev/charismo/issues"
+  },
+  "homepage": "https://github.com/charismodev/charismo#readme"
 }
